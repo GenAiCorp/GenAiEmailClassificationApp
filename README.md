@@ -1,0 +1,2 @@
+# GenAiEmailClassificationApp
+This is poc
